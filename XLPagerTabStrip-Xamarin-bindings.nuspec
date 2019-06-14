@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+    <metadata>
+        <!-- The identifier that must be unique within the hosting gallery -->
+        <id>nl.readefries.xlpagertabstrip-xamarin</id>
+
+        <!-- The package version number that is used when resolving dependencies -->
+        <version>9.0.0</version>
+
+        <!-- Authors contain text that appears directly on the gallery -->
+        <authors>Martin Barreto</authors>
+
+        <!-- 
+            Owners are typically nuget.org identities that allow gallery
+            users to easily find other packages by the same owners.  
+        -->
+        <owners>Hindrik Bruinsma</owners>
+        
+         <!-- Project URL provides a link for the gallery -->
+        <projectUrl>https://github.com/readefries/XLPagerTabStrip-Xamarin-binding</projectUrl>
+
+         <!-- License information is displayed on the gallery -->
+        <license type="expression">MIT</license>
+
+        <!-- 
+            If true, this value prompts the user to accept the license when
+            installing the package. 
+        -->
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+
+        <!-- 
+            The description can be used in package manager UI. Note that the
+            nuget.org gallery uses information you add in the portal. 
+        -->
+        <description>Android PagerTabStrip for iOS and much more.</description>
+
+        <!-- Copyright information -->
+        <copyright>Copyright ©2016 Contoso Corporation</copyright>
+
+        <!-- Tags appear in the gallery and can be used for tag searches -->
+        <tags>Pager, tabs</tags>
+        
+    </metadata>
+</package>
