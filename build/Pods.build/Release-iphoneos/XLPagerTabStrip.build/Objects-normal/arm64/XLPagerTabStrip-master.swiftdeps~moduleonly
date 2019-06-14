@@ -1,0 +1,17 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "915c16736d83e181143449c5e74e5e8a"
+build_time: [1560497363, 963077000]
+inputs:
+  "/Users/hindrik/Projects/XLPagerTabStrip-bindings/Pods/XLPagerTabStrip/Sources/BarPagerTabStripViewController.swift": [9223372036, 854775807]
+  "/Users/hindrik/Projects/XLPagerTabStrip-bindings/Pods/XLPagerTabStrip/Sources/BarView.swift": [9223372036, 854775807]
+  "/Users/hindrik/Projects/XLPagerTabStrip-bindings/Pods/XLPagerTabStrip/Sources/BaseButtonBarPagerTabStripViewController.swift": [9223372036, 854775807]
+  "/Users/hindrik/Projects/XLPagerTabStrip-bindings/Pods/XLPagerTabStrip/Sources/ButtonBarPagerTabStripViewController.swift": [9223372036, 854775807]
+  "/Users/hindrik/Projects/XLPagerTabStrip-bindings/Pods/XLPagerTabStrip/Sources/ButtonBarView.swift": [9223372036, 854775807]
+  "/Users/hindrik/Projects/XLPagerTabStrip-bindings/Pods/XLPagerTabStrip/Sources/ButtonBarViewCell.swift": [9223372036, 854775807]
+  "/Users/hindrik/Projects/XLPagerTabStrip-bindings/Pods/XLPagerTabStrip/Sources/IndicatorInfo.swift": [9223372036, 854775807]
+  "/Users/hindrik/Projects/XLPagerTabStrip-bindings/Pods/XLPagerTabStrip/Sources/PagerTabStripBehaviour.swift": [9223372036, 854775807]
+  "/Users/hindrik/Projects/XLPagerTabStrip-bindings/Pods/XLPagerTabStrip/Sources/PagerTabStripError.swift": [9223372036, 854775807]
+  "/Users/hindrik/Projects/XLPagerTabStrip-bindings/Pods/XLPagerTabStrip/Sources/PagerTabStripViewController.swift": [9223372036, 854775807]
+  "/Users/hindrik/Projects/XLPagerTabStrip-bindings/Pods/XLPagerTabStrip/Sources/SegmentedPagerTabStripViewController.swift": [9223372036, 854775807]
+  "/Users/hindrik/Projects/XLPagerTabStrip-bindings/Pods/XLPagerTabStrip/Sources/SwipeDirection.swift": [9223372036, 854775807]
+  "/Users/hindrik/Projects/XLPagerTabStrip-bindings/Pods/XLPagerTabStrip/Sources/TwitterPagerTabStripViewController.swift": [9223372036, 854775807]
